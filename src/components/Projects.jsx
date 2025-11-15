@@ -1,6 +1,6 @@
 
 // import sgap from "../assets/sgpa.png";
-import ecommrece from "../assets/ECommerceWeb.png";
+import ecommrece from "../assets/EcommerceWeb.png";
 import DDE from "../assets/DDE.png";
 import bankingsystem from "../assets/bankingsystem.png";
 const Projects = () => {
